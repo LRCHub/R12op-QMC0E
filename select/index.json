@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "I Don’t Think That I Like Her",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2025-12-20T12:36:40.071737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/01_I_Don’t_Think_That_I_Like_Her_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Think_That_I_Like_Her_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "チャーリー・プース",
+      "has_synced": true,
+      "path": "select/03_I_Don’t_Think_That_I_Like_Her_チャーリー・プース.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/04_I_Don’t_Think_That_I_Like_Her_V.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/05_I_Don’t_Think_That_I_Like_Her_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Charlie Puth - I Don't Think That I Like Her (Official Audio)",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/06_Charlie_Puth_-_I_Don't_Think_That_I_Like_Her_(Official_Audio)_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Charlie Puth - I Don't Think That I Like Her (Official Audio)",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/07_Charlie_Puth_-_I_Don't_Think_That_I_Like_Her_(Official_Audio)_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don’t Think That I Like Her",
+      "artist": "Charlie Puth(찰리 푸스)",
+      "has_synced": true,
+      "path": "select/08_I_Don’t_Think_That_I_Like_Her_Charlie_Puth(찰리_푸스).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Don't Think That I Like Her",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_I_Don't_Think_That_I_Like_Her_Charlie_Puth.txt"
+    }
+  ]
+}
